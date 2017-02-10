@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/EtisalatAssignment">
+    <Resource auth="Container" driverClassName="org.h2.Driver" maxActive="5" maxIdle="2" maxWait="2000" name="jdbc/testds" password="" type="javax.sql.DataSource" url="jdbc:h2:tcp://localhost/~/test" username="sa"/>
+</Context>
